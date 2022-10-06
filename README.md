@@ -21,5 +21,20 @@ f) Em qual local o crime é praticado com mais frequência? (casa, trabalho etc)
 
 g) Quais cidades têm mais ocorrências? 
 
+**O que aprendemos com os dados?**
+
+a) xxxxxxxxx
+
+b) xxxxxxxxx
+
+c) xxxxxxxxx
+
+d) xxxxxxxxx
+
+e) xxxxxxxxx
+
+f) xxxxxxxxx
+
+g) xxxxxxxxx
 
 
