@@ -5,6 +5,9 @@ O grupo é formado por Julianna Granjeia: xxxxxx; Leticia Godoy Nakoa: xxxxx ; N
 
 Inicialmente, para fazer este levantamento, cruzaremos as informações de idade, profissão e cor da pele de mulheres que registraram boletim de ocorrência no estado de São Paulo durante o ano de 2021 com o número de mortes de mulheres por agressão registradas pelo SIM no mesmo período. 
 
+Notebook - Clique aqui para ler e baixar o arquivo. (EXEMPLO DE TEXTO)
+CSV - Clique aqui para ler e baixar o arquivo. (EXEMPLO DE TEXTO)
+
 **Roteiro criado para aplicar a essa base de dados:**
 
 a) O número de BOs registrados por mulheres no estado de São Paulo durante o ano de 2021 é maior entre qual raça?
