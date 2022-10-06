@@ -8,11 +8,17 @@ Inicialmente, para fazer este levantamento, cruzaremos as informações de idade
 **Roteiro criado para aplicar a essa base de dados:**
 
 a) O número de BOs registrados por mulheres no estado de São Paulo durante o ano de 2021 é maior entre qual raça?
-b) O número de BOs registrados por mulheres no estado de São Paulo durante o ano de 2021 é maior entre qual profissão
+
+b) O número de BOs registrados por mulheres no estado de São Paulo durante o ano de 2021 é maior entre qual profissão?
+
 c) É possível estabelecer alguma ligação entre profissões ou grau de escolaridade com o número de BOs? (donas de casa registram mais ou menos boletins de ocorrência por agressão do que estudantes/universitárias, por ex?)
+
 d) É possível correlacionar o número de mortes de mulheres registradas no SIM com alguma variação disponível na base de dados da SSP?
+
 e) Em qual mês há mais BOs? (Para verificar se alguma data/evento/efeméride influi nessas ocorrências.)
+
 f) Em qual local o crime é praticado com mais frequência? (casa, trabalho etc)
+
 g) Quais cidades têm mais ocorrências? 
 
 
