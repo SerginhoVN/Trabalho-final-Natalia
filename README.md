@@ -65,3 +65,4 @@ Documente as funções e cálculos aplicados para obter as respostas no github.
 Indique um caminho inicial de pauta que poderia ser explorado a partir dos insights obtidos.
 
 Indique abaixo o(s) link(s) para a documentação do projeto no github.
+https://github.com/SerginhoVN/Trabalho-final-Natalia/blob/main/README.md 
