@@ -34,19 +34,13 @@ g) Quais cidades têm mais ocorrências?
 
 **O que aprendemos com os dados?**
 
-a) xxxxxxxxx
+a) A partir da delimitação por cor e raça, conseguimos concluir que a maioria dos boletins de ocorrência abertos entre 2015 e 2021 foram feitos por mulheres brancas de 36 anos de idade.
 
-b) xxxxxxxxx
+b) Os boletins de ocorrência estão ligados à educação, e portanto, à profissão (uma das variáveis disponíveis na base da SSP-SP para análise). Pois, observando no gráfico 3, as mulheres brancas, possuem opções como “estudante”, “comerciante” e “vendedora”, em destaque. Para as pardas e pretas, é possível observar um alto número de auxiliares de limpeza e balconistas ou secretárias. Chegamos, então, ao número de mulheres brancas que informaram no BO com a profissão “estudante”: 108.501. Enquanto o número de pardas e negras representam 60.480.
 
-c) xxxxxxxxx
-
-d) xxxxxxxxx
-
-e) xxxxxxxxx
-
-f) xxxxxxxxx
-
-g) xxxxxxxxx
+c) Na base de óbitos de mulheres por agressão no Brasil (SIM). É possível ver que no Sudeste, os casos de óbitos por mulheres pardas e negras foram, em média, 35% maiores do que para as brancas.
+ 
+d) Foi possível observar que, no período de 2015 a 2021, o último trimestre dos anos possuía o maior peso em relação aos outros meses. Isso possibilitou o grupo a levantar a hipótese de que o número de boletins de ocorrência é em decorrência as festas de finais de ano, momento em que as famílias ficam mais em casa.
 
 **Projeto Final: Entrevistando dados**
 
