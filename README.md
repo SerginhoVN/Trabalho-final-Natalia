@@ -11,9 +11,9 @@ A primeira tese que queremos levantar e/ou confirmar com os dados que poderemos 
 
 **Base de Dados Utilizadas**
 
-SSPSP - CSV  - Clique aqui para ler e baixar o arquivo. (EXEMPLO DE TEXTO)
+**SSPSP - CSV**  - Clique aqui para ler e baixar o arquivo. (EXEMPLO DE TEXTO)
 
-SIM - CSV - Clique aqui para ler e baixar o arquivo. (EXEMPLO DE TEXTO)
+**SIM - CSV** - Clique aqui para ler e baixar o arquivo. (EXEMPLO DE TEXTO)
 
 **Roteiro criado para aplicar a essa base de dados:**
 
@@ -53,7 +53,7 @@ Chegamos, então, ao número de mulheres brancas que informaram no BO com a prof
 Para que fosse possível entender mais sobre o caso de boletins de ocorrência baseado em demografia, o grupo obteve acesso à base de óbitos de mulheres por agressão no Brasil (SIM). Nele é possível ver que no Sudeste, os casos de óbitos por mulheres pardas e negras foram, em média, 35% maiores do que para as brancas. 
 Portanto, o grupo consegue concluir que o acesso à informação têm salvado mulheres ao longo dos anos.
 
-DASHBOARD - Clique aqui para ver a análise dos Feminicídios 
+**DASHBOARD** - Clique aqui para ver a análise dos Feminicídios 
 
 **Projeto Final: Entrevistando dados**
 
