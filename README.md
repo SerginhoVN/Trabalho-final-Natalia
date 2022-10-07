@@ -5,7 +5,7 @@ O grupo é formado por Julianna Granjeia ([@jugranjeia](https://github.com/jugra
 
 **Um breve relato sobre nossa tese**
 
-A morte de mulheres no Brasil tem índices alarmantes e, a cada dia, ganham as manchetes de jornais e telejornais com mais frequência. Para ter uma ideia correta desses assassinatos é preciso conhecer o cenário e as circuntâncias que estes crimes ocorrem para se fazer um bom diagnóstico do feminicídio. São muitos os viéses existentes e, inicialmente, para fazer este levantamento, cruzamos as informações de idade, profissão e cor da pele de mulheres que registraram boletim de ocorrência no estado de São Paulo durante o ano de 2021 com o número de mortes de mulheres por agressão registradas pelo SIM no mesmo período. 
+A morte de mulheres no Brasil tem índices alarmantes e, a cada dia, ganham as manchetes de jornais e telejornais com mais frequência. Para ter uma ideia correta desses assassinatos é preciso conhecer o cenário e as circunstâncias que estes crimes ocorrem para se fazer um bom diagnóstico do feminicídio. São muitos os vieses existentes e, inicialmente, para fazer este levantamento, cruzamos as informações de idade, profissão e cor da pele de mulheres que registraram boletim de ocorrência no estado de São Paulo durante o ano de 2021 com o número de mortes de mulheres por agressão registradas pelo SIM no mesmo período.
 
 A primeira tese que queremos levantar e/ou confirmar com os dados que poderemos tirar dessa coleta é se mulheres negras são as que mais registram BOs. Também testamos se há alguma correlação entre o tipo de profissão e escolaridade com agressão/feminicídio.
 
@@ -21,7 +21,7 @@ Planilha completa pode ser encontrada [neste link](https://opendatasus.saude.gov
 
 **Ferramentas utilizadas**
 
-Utilizamos o Google Sheets para a análise, e o Google Data Studio para visualizarmos e filtrarmos os dados por ano e cor da pele.
+Utilizarmos o Google Sheets para a análise, e o Google Data Studio para visualizarmos e filtrarmos os dados por ano e cor da pele.
 
 **Roteiro criado para aplicar a essa base de dados:**
 
@@ -47,7 +47,7 @@ c) Na base de óbitos de mulheres por agressão no Brasil (SIM). É possível ve
  
 d) Foi possível observar que, no período de 2015 a 2021, o último trimestre dos anos possuía o maior peso em relação aos outros meses. Isso possibilitou o grupo a levantar a hipótese de que o número de boletins de ocorrência é em decorrência as festas de finais de ano, momento em que as famílias ficam mais em casa.
 
-e) A maior parte dos Boletins de ocorrências registrados ocorrem no mês de dezembro, seguido de outubro e novembro, meses do quarto trimestre. As festas de Natal e Ano Novo, além da grande quantidade de confraternizações e feriados, podem contribuir com esse aumento, já que há grande ingestão de bebidas alcoolicas neste período. 
+e) A maior parte dos Boletins de ocorrências registrados ocorrem no mês de dezembro, seguido de outubro e novembro, meses do quarto trimestre. As festas de Natal e Ano Novo, além da grande quantidade de confraternizações e feriados, podem contribuir com esse aumento, já que há grande ingestão de bebidas alcoólicas neste período.
 
 f) Maciçamente, a residência é o onde ocorrem com mais frequência os crimes contra a mulher. Vale destacar que as favelas foram colocadas em outra categoria. Nossa análise é de que criaram esta categoria para que o poder público pudesse desenvolver políticas públicas voltadas especificamente para estas situações. 
 
