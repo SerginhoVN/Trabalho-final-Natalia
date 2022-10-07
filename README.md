@@ -49,10 +49,11 @@ f) xxxxxxxxx
 g) xxxxxxxxx
 
 **Projeto Final: Entrevistando dados**
+
 O objetivo do projeto final é demonstrar conhecimentos aplicados de entrevista a bases de dados utilizando planilha eletrônica e/ou SQL. Para isso, você deverá seguir os passos abaixo:
 
-Escolha ao menos uma base de dados pública para trabalhar. Justifique em um parágrafo sua escolha, incluindo também informações básicas sobre a base (fonte, metodologia de coleta, data de atualização e limitações mais evidentes).
-Crie um roteiro de entrevista para aplicar a essa base de dados.
+Escolha ao menos uma base de dados pública para trabalhar. Justifique em um parágrafo sua escolha, incluindo também informações básicas sobre a base (fonte, metodologia de coleta, data de atualização e limitações mais evidentes). Crie um roteiro de entrevista para aplicar a essa base de dados.
+
 Documente as funções e cálculos aplicados para obter as respostas no github.
 Indique um caminho inicial de pauta que poderia ser explorado a partir dos insights obtidos.
 
