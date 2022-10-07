@@ -51,20 +51,6 @@ e) A maior parte dos Boletins de ocorrências registrados ocorrem no mês de dez
 
 f) Maciçamente, a residência é o onde ocorrem com mais frequência os crimes contra a mulher. Vale destacar que as favelas foram colocadas em outra categoria. Nossa análise é de que criaram esta categoria para que o poder público pudesse desenvolver políticas públicas voltadas especificamente para estas situações. 
 
-**Análise e Conclusão**
-
-A primeira análise realizada pelo grupo foi a partir da variável “Cor/Raça”. Observamos que a maioria dos boletins de ocorrência abertos em 2021 foram provenientes de mulheres brancas de 36 anos de idade. Esta informação guiou grande parte da pesquisa, de forma que também nos indagamos, não somente sobre boletins de ocorrência (BO), mas o número de óbitos registrados oficialmente dessas mulheres.
-
-Pesquisa realizada por uma magistrada do Tribunal de Justiça de São Paulo em 2016 com os dados de atendimento da vara de violência doméstica da zona oeste da capital apontou que 59% das vítimas que vão à Justiça são brancas (36% pardas e 5% negras), e 55% têm escolaridade mais alta.
-
-O grupo, então, levantou a hipótese de que o número de B.Os estaria diretamente ligado à educação e ao acesso de informação, e portanto, à profissão (uma das variáveis disponíveis na base da SSP-SP para análise).
-
-Dessa forma, mesmo que o gráfico 3 de profissão categorizado por raça partilhe as mesmas categorias para todas as estudadas, é possível observar a variedade entre elas. Para mulheres brancas há opções como “estudante”, “comerciante” e “vendedora”, em destaque. Para as pardas e pretas, é possível observar um alto número de auxiliares de limpeza e balconistas ou secretárias. 
-
-Chegamos, então, ao número de mulheres brancas que informaram no BO com a profissão “estudante”: 108.501. Enquanto o número de pardas e negras representam 60.480.
-Para que fosse possível entender mais sobre o caso de boletins de ocorrência baseado em demografia, o grupo obteve acesso à base de óbitos de mulheres por agressão no Brasil (SIM). Nele é possível ver que no Sudeste, os casos de óbitos por mulheres pardas e negras foram, em média, 35% maiores do que para as brancas. 
-Portanto, o grupo consegue concluir que o acesso à informação têm salvado mulheres ao longo dos anos.
-
 **DASHBOARD** - [Clique aqui](https://github.com/SerginhoVN/Trabalho-final-Natalia/blob/main/Dashboard_A201331189_28_143_208) para ver a análise dos Feminicídios 
 
 **Projeto Final: Entrevistando dados**
