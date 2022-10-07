@@ -1,5 +1,5 @@
 # Feminicídios no estado de São Paulo
-Este repositório contém o projeto final da disciplina "Fundamentos e ética do jornalismo de dados", no Master em jornalismo dados, automação e data storytelling do Insper. Este documento faz uma análise de Boletins de Ocorrências relacionados à feminicídios com base no cruzamento de dados da Secretaria de Segurança Pública de São Paulo e o SIM (Sistema de Informação de Mortalidade) do Ministério da Saúde (Dataset)
+Este repositório contém o projeto final da disciplina "Fundamentos e ética do jornalismo de dados", no Master em Jornalismo de Dados, Automação e Data Storytelling do Insper. Este documento faz uma análise de Boletins de Ocorrências relacionados à feminicídios com base no cruzamento de dados da Secretaria de Segurança Pública de São Paulo e o SIM (Sistema de Informação de Mortalidade) do Ministério da Saúde (Dataset)
 
 O grupo é formado por Julianna Granjeia ([@jugranjeia](https://github.com/jugranjeia)): juliannags@al.insper.edu.br; Leticia Godoy Nakoa [(@leticiagnakao)](https://github.com/leticiagnakao): leticia.godoy@hypr.mobi; Natali Carvalho ([@natalicarvalho](https://github.com/natalicarvalho)): natali.lima.carvalho@gmail.com e Sérgio Vieira [(@SerginhoVN)](https://github.com/SerginhoVN): serginho.vieira.rio@gmail.com; 
 
