@@ -45,7 +45,7 @@ f)
 
 **Análise e Conclusão**
 
-A primeira análise realizada pelo grupo foi a partir da variável “Cor/Raça”. Observamos que a maioria dos boletins de ocorrência abertos entre 2015 e 2021 foram provenientes de mulheres brancas de 36 anos de idade. Esta informação guiou grande parte da pesquisa, de forma que também nos indagamos, não somente sobre boletins de ocorrência (BO), mas o número de óbitos registrados oficialmente dessas mulheres.
+A primeira análise realizada pelo grupo foi a partir da variável “Cor/Raça”. Observamos que a maioria dos boletins de ocorrência abertos em 2021 foram provenientes de mulheres brancas de 36 anos de idade. Esta informação guiou grande parte da pesquisa, de forma que também nos indagamos, não somente sobre boletins de ocorrência (BO), mas o número de óbitos registrados oficialmente dessas mulheres.
 
 Pesquisa realizada por uma magistrada do Tribunal de Justiça de São Paulo em 2016 com os dados de atendimento da vara de violência doméstica da zona oeste da capital apontou que 59% das vítimas que vão à Justiça são brancas (36% pardas e 5% negras), e 55% têm escolaridade mais alta.
 
@@ -57,7 +57,7 @@ Chegamos, então, ao número de mulheres brancas que informaram no BO com a prof
 Para que fosse possível entender mais sobre o caso de boletins de ocorrência baseado em demografia, o grupo obteve acesso à base de óbitos de mulheres por agressão no Brasil (SIM). Nele é possível ver que no Sudeste, os casos de óbitos por mulheres pardas e negras foram, em média, 35% maiores do que para as brancas. 
 Portanto, o grupo consegue concluir que o acesso à informação têm salvado mulheres ao longo dos anos.
 
-**DASHBOARD** - Clique aqui para ver a análise dos Feminicídios 
+**DASHBOARD** - [Clique aquil (https://github.com/SerginhoVN/Trabalho-final-Natalia/blob/main/Dashboard_A201331189_28_143_208) para ver a análise dos Feminicídios 
 
 **Projeto Final: Entrevistando dados**
 
