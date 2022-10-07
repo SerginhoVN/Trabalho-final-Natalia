@@ -57,7 +57,7 @@ Chegamos, então, ao número de mulheres brancas que informaram no BO com a prof
 Para que fosse possível entender mais sobre o caso de boletins de ocorrência baseado em demografia, o grupo obteve acesso à base de óbitos de mulheres por agressão no Brasil (SIM). Nele é possível ver que no Sudeste, os casos de óbitos por mulheres pardas e negras foram, em média, 35% maiores do que para as brancas. 
 Portanto, o grupo consegue concluir que o acesso à informação têm salvado mulheres ao longo dos anos.
 
-**DASHBOARD** - [Clique aqui] (https://github.com/SerginhoVN/Trabalho-final-Natalia/blob/main/Dashboard_A201331189_28_143_208) para ver a análise dos Feminicídios 
+**DASHBOARD** - [Clique aqui](https://github.com/SerginhoVN/Trabalho-final-Natalia/blob/main/Dashboard_A201331189_28_143_208) para ver a análise dos Feminicídios 
 
 **Projeto Final: Entrevistando dados**
 
