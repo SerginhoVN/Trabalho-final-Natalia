@@ -41,7 +41,7 @@ d) Foi possível observar que, no período de 2015 a 2021, o último trimestre d
 
 e) A maior parte dos Boletins de ocorrências registrados ocorrem no mês de dezembro, seguido de outubro e novembro, meses do quarto trimestre. As festas de Natal e Ano Novo, além da grande quantidade de confraternizações e feriados, podem contribuir com esse aumento, já que há grande ingestão de bebidas alcoolicas neste período. 
 
-f) 
+f) Maciçamente, a residência é o onde ocorrem com mais frequência os crimes contra a mulher. Vale destacar que as favelas foram colocadas em outra categoria. Nossa análise é de que criaram esta categoria para que o poder público pudesse desenvolver políticas públicas voltadas especificamente para estas situações. 
 
 **Análise e Conclusão**
 
