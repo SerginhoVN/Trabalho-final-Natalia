@@ -11,11 +11,11 @@ A primeira tese que queremos levantar e/ou confirmar com os dados que poderemos 
 
 **Base de Dados Utilizadas**
 
-**SSPSP - CSV**  - [Clique aqui](https://github.com/SerginhoVN/Trabalho-final-Natalia/blob/main/ocorrencias_registradas_tratada_SSPSP.xlsx) para ler e baixar o arquivo.
+**SSPSP**  - [Clique aqui](https://github.com/SerginhoVN/Trabalho-final-Natalia/blob/main/ocorrencias_registradas_tratada_SSPSP.xlsx) para ler e baixar o arquivo.
 
 Planilha completa pode ser encontrada [neste link](https://basedosdados.org/dataset/feminicidio-sp?external_link=Feminicidio+ocorridos+no+Estado+de+SP)
 
-**SIM - CSV** - Clique aqui para ler e baixar o arquivo.
+**SIM** - Clique aqui para ler e baixar o arquivo.
 
 Planilha completa pode ser encontrada [neste link](https://opendatasus.saude.gov.br/dataset/sim-2020-2021/resource/904b9632-171f-4b06-8f09-26a6bf590b1b)
 
