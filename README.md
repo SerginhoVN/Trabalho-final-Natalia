@@ -21,7 +21,7 @@ Planilha completa pode ser encontrada [neste link](https://opendatasus.saude.gov
 
 **Ferramentas utilizadas**
 
-Utilizarmos o Google Sheets para a análise, e o Google Data Studio para visualizarmos e filtrarmos os dados por ano e cor da pele.
+Utilizamos o Google Sheets para a análise, e o Google Data Studio para visualizarmos e filtrarmos os dados por ano e cor da pele.
 
 **Roteiro criado para aplicar a essa base de dados:**
 
