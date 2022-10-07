@@ -19,6 +19,10 @@ Planilha completa pode ser encontrada [neste link](https://basedosdados.org/data
 
 Planilha completa pode ser encontrada [neste link](https://opendatasus.saude.gov.br/dataset/sim-2020-2021/resource/904b9632-171f-4b06-8f09-26a6bf590b1b)
 
+**Ferramentas utilizadas**
+
+Utilizarmos o Google Sheets para a análise, e o Google Data Studio para visualizarmos e filtrarmos os dados por ano e cor da pele.
+
 **Roteiro criado para aplicar a essa base de dados:**
 
 a) O número de BOs registrados por mulheres no estado de São Paulo durante o ano de 2021 é maior entre qual raça?
