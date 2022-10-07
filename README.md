@@ -39,6 +39,10 @@ c) Na base de óbitos de mulheres por agressão no Brasil (SIM). É possível ve
  
 d) Foi possível observar que, no período de 2015 a 2021, o último trimestre dos anos possuía o maior peso em relação aos outros meses. Isso possibilitou o grupo a levantar a hipótese de que o número de boletins de ocorrência é em decorrência as festas de finais de ano, momento em que as famílias ficam mais em casa.
 
+e) A maior parte dos Boletins de ocorrências registrados ocorrem no mês de dezembro, seguido de outubro e novembro, meses do quarto trimestre. As festas de Natal e Ano Novo, além da grande quantidade de confraternizações e feriados, podem contribuir com esse aumento, já que há grande ingestão de bebidas alcoolicas neste período. 
+
+f) 
+
 **Análise e Conclusão**
 
 A primeira análise realizada pelo grupo foi a partir da variável “Cor/Raça”. Observamos que a maioria dos boletins de ocorrência abertos entre 2015 e 2021 foram provenientes de mulheres brancas de 36 anos de idade. Esta informação guiou grande parte da pesquisa, de forma que também nos indagamos, não somente sobre boletins de ocorrência (BO), mas o número de óbitos registrados oficialmente dessas mulheres.
