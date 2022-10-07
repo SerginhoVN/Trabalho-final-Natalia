@@ -1,7 +1,7 @@
 # Feminicídios no estado de São Paulo
 Este repositório contém o projeto final da disciplina "Análise exploratória de dados", no Master em jornalismo dados, automação e data storytelling do Insper. Este documento faz uma análise de Boletins de Ocorrências relacionados à feminicídios com base no cruzamento de dados da Secretaria de Segurança Pública de São Paulo e o SIM (Sistema de Informação de Mortalidade) do Ministério da Saúde (Dataset)
 
-O grupo é formado por Julianna Granjeia: xxxxxx; Leticia Godoy Nakoa: xxxxx ; Natali Carvalho: xxxxxxx e Sérgio Vieira (@SerginhoVN): serginho.vieira.rio@gmail.com; 
+O grupo é formado por Julianna Granjeia: xxxxxx; Leticia Godoy Nakoa: xxxxx ; Natali Carvalho (@natalicarvalho): xxxxxxx e Sérgio Vieira (@SerginhoVN): serginho.vieira.rio@gmail.com; 
 
 
 **Um breve relato sobre nossa tese**
@@ -15,6 +15,8 @@ A primeira tese que queremos levantar e/ou confirmar com os dados que poderemos 
 SSPSP - CSV  - Clique aqui para ler e baixar o arquivo. (EXEMPLO DE TEXTO)
 
 SIM - CSV - Clique aqui para ler e baixar o arquivo. (EXEMPLO DE TEXTO)
+
+DASHBOARD - Clique aqui para ver a análise dos Feminicídios 
 
 **Roteiro criado para aplicar a essa base de dados:**
 
