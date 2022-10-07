@@ -31,8 +31,6 @@ e) Em qual mês há mais BOs? (Para verificar se alguma data/evento/efeméride i
 
 f) Em qual local o crime é praticado com mais frequência? (casa, trabalho etc)
 
-g) Quais cidades têm mais ocorrências? 
-
 **O que aprendemos com os dados?**
 
 a) A partir da delimitação por cor e raça, conseguimos concluir que a maioria dos boletins de ocorrência abertos entre 2015 e 2021 foram feitos por mulheres brancas de 36 anos de idade.
