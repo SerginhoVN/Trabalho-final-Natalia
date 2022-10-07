@@ -1,7 +1,7 @@
 # Feminicídios no estado de São Paulo
 Este repositório contém o projeto final da disciplina "Análise exploratória de dados", no Master em jornalismo dados, automação e data storytelling do Insper. Este documento faz uma análise de Boletins de Ocorrências relacionados à feminicídios com base no cruzamento de dados da Secretaria de Segurança Pública de São Paulo e o SIM (Sistema de Informação de Mortalidade) do Ministério da Saúde (Dataset)
 
-O grupo é formado por Julianna Granjeia ([@jugranjeia](https://github.com/jugranjeia)): Jugranjeia@gmail.com; Leticia Godoy Nakoa [(@leticiagnakao)](https://github.com/leticiagnakao): leticia.godoy@hypr.mobi; Natali Carvalho ([@natalicarvalho](https://github.com/natalicarvalho)): natali.lima.carvalho@gmail.com e Sérgio Vieira (@SerginhoVN): serginho.vieira.rio@gmail.com; 
+O grupo é formado por Julianna Granjeia ([@jugranjeia](https://github.com/jugranjeia)): Jugranjeia@gmail.com; Leticia Godoy Nakoa [(@leticiagnakao)](https://github.com/leticiagnakao): leticia.godoy@hypr.mobi; Natali Carvalho ([@natalicarvalho](https://github.com/natalicarvalho)): natali.lima.carvalho@gmail.com e Sérgio Vieira [(@SerginhoVN)](https://github.com/SerginhoVN): serginho.vieira.rio@gmail.com; 
 
 **Um breve relato sobre nossa tese**
 
@@ -15,7 +15,7 @@ A primeira tese que queremos levantar e/ou confirmar com os dados que poderemos 
 
 Planilha completa pode ser encontrada [neste link](https://basedosdados.org/dataset/feminicidio-sp?external_link=Feminicidio+ocorridos+no+Estado+de+SP)
 
-**SIM** - Arquivo CSV é superior a 25MB.
+**SIM** - Arquivo CSV é superior a 25MB, o GitHub não aceita.
 
 Planilha completa pode ser encontrada [neste link](https://opendatasus.saude.gov.br/dataset/sim-2020-2021/resource/904b9632-171f-4b06-8f09-26a6bf590b1b)
 
