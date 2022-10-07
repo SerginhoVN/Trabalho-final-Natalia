@@ -8,6 +8,8 @@ O grupo é formado por Julianna Granjeia: xxxxxx; Leticia Godoy Nakoa: xxxxx ; N
 
 A morte de mulheres no Brasil tem índices alarmantes e, a cada dia, ganham as manchetes de jornais e telejornais com mais frequência. Para ter uma ideia correta desses assassinatos é preciso conhecer o cenário e as circuntâncias que estes crimes ocorrem para se fazer um bom diagnóstico do feminicídio. São muitos os viéses existentes e, inicialmente, para fazer este levantamento, cruzamos as informações de idade, profissão e cor da pele de mulheres que registraram boletim de ocorrência no estado de São Paulo durante o ano de 2021 com o número de mortes de mulheres por agressão registradas pelo SIM no mesmo período. 
 
+A primeira tese que queremos levantar e/ou confirmar com os dados que poderemos tirar dessa coleta é se mulheres negras são as que mais registram BOs. Também testamos se há alguma correlação entre o tipo de profissão e escolaridade com agressão/feminicídio.
+
 **Base de Dados Utilizadas**
 
 Notebook - Clique aqui para ler e baixar o arquivo. (EXEMPLO DE TEXTO)
