@@ -10,9 +10,8 @@ Planilha completa pode ser encontrada neste [link](http://www.ssp.sp.gov.br/tran
 
 Utilizarmos o Google Sheets para a análise e tratamento dos dados e o Google Data Studio para visualizarmos e filtrarmos as informações por raça, profissão, local do crime etc.
 
-Dashboard no Data Studio disponível neste link.
-
 **Contexto**
+
 Uma pesquisa realizada por uma magistrada do Tribunal de Justiça de São Paulo feita em 2016 com os dados de atendimento da vara de violência doméstica, da zona oeste da capital, apontou que 59% das vítimas que vão à Justiça são brancas (36% pardas e 5% negras), e 55% têm escolaridade mais alta.
 
 Dados do Anuário Brasileiro de Segurança Pública de 2021 indicam que 37,5% das vítimas de feminicídio em todo o país são brancas e 62% são negras. Nas demais mortes violentas intencionais, contudo, 70,7% são negras e apenas 28,6% são brancas. 
